@@ -1,1 +1,1 @@
-# Background-genereator
+# Background GeneratorA Web Application built using DOM manipulation and JavaScript that generates a gradient for a combination of colors. The application can be used for design purposes.## Tech StackHTML, CSS, JavaScript, DOM Manipulation
